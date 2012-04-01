@@ -1,0 +1,2 @@
+notBefore=Jan  2 00:03:12 2013 GMT
+notAfter=Dec 31 00:03:12 2022 GMT
